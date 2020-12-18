@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2020/12/18/a-good-definition.html",
+				
+				"content_html": "<p>A good <a href=\"https://heidelblog.net/biblicism/\">definition of biblicism + resource page</a> from <a href=\"http://heidelblog.net\">@heidelblog.net</a>.</p>\n",
+				"content_text": "A good [definition of biblicism + resource page](https://heidelblog.net/biblicism/) from [@heidelblog.net](http://heidelblog.net).\n",
+				"date_published": "2020-12-18T11:02:25-07:00",
+				"url": "https://www.christopherchelpka.com/2020/12/18/a-good-definition.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2020/12/16/let-us-consider.html",
+				
+				"content_html": "<p>“Let us consider how to stir up one another to love and good works” (Hebrews 10:24). Any ideas?</p>\n",
+				"content_text": "“Let us consider how to stir up one another to love and good works” (Hebrews 10:24). Any ideas?\n",
+				"date_published": "2020-12-16T13:10:52-07:00",
+				"url": "https://www.christopherchelpka.com/2020/12/16/let-us-consider.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2020/12/10/on-this-day.html",
+				
+				"content_html": "<p>On this day 1 year ago</p>\n\n<p><img src=\"uploads/2020/d8f52952c9.jpg\" width=\"600\" height=\"600\" alt=\"double  decker pb&j\" /></p>\n",
+				"content_text": "On this day 1 year ago\n\n<img src=\"uploads/2020/d8f52952c9.jpg\" width=\"600\" height=\"600\" alt=\"double  decker pb&j\" />\n",
+				"date_published": "2020-12-10T17:23:53-07:00",
+				"url": "https://www.christopherchelpka.com/2020/12/10/on-this-day.html",
+				"tags": ["Photos","microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2020/12/10/so-thankful-for.html",
 				
 				"content_html": "<p>So thankful for the way @opchomemissions supported Covenant when we were a church plant. Watch to hear from two current church planters about ministry during COVID-19. <a href=\"https://vimeo.com/468257282\">Watch on Vimeo.</a>\n<p>\n<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/468257282\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe></p></p>\n",
