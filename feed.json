@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2021/10/02/105641.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/80fd1e5b2b.jpg\" width=\"600\" height=\"600\" alt=\"dog with hat on pack\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/80fd1e5b2b.jpg\" width=\"600\" height=\"600\" alt=\"dog with hat on pack\" />\n",
+				"date_published": "2021-10-02T10:56:41-07:00",
+				"url": "https://www.christopherchelpka.com/2021/10/02/105641.html",
+				"tags": ["Photos","microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2021/09/28/consider-abraham.html",
+				
+				"content_html": "<p>🎵 Consider Abraham</p>\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://www.christopherchelpka.com/uploads/2021/2fa8b1e5f5.mov\" preload=\"none\"></video>\n",
+				"content_text": "🎵 Consider Abraham\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://www.christopherchelpka.com/uploads/2021/2fa8b1e5f5.mov\" preload=\"none\"></video>\n",
+				"date_published": "2021-09-28T19:34:03-07:00",
+				"url": "https://www.christopherchelpka.com/2021/09/28/consider-abraham.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2021/09/14/takeaways-from-george.html",
 				
 				"content_html": "<p>Takeaways from George P. Shultz on trust\n<a href=\"https://www.hoover.org/sites/default/files/research/docs/shultz_finalfile_web-ready.pdf\">13 page PDF</a>:</p>\n\n<ul>\n<li>take the jobs you can do well, then do them</li>\n<li>keep standards high</li>\n<li>no empty threats</li>\n<li>care about the people you serve</li>\n<li>build trust, then inspire</li>\n<li>set good missions and equip to win</li>\n<li>speak with authority on moral issues</li>\n</ul>\n",
