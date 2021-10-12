@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2021/10/12/im-enjoying-the.html",
+				
+				"content_html": "<p>I&rsquo;m enjoying the new Paleo Protestant Pudcast by @oldlife this week. Check it out. <a href=\"https://anchor.fm/darryl-hart\">anchor.fm/darryl-ha&hellip;</a></p>\n",
+				"content_text": "I'm enjoying the new Paleo Protestant Pudcast by @oldlife this week. Check it out. [anchor.fm/darryl-ha...](https://anchor.fm/darryl-hart)\n",
+				"date_published": "2021-10-12T09:34:43-07:00",
+				"url": "https://www.christopherchelpka.com/2021/10/12/im-enjoying-the.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2021/10/07/idea-grade-multiple.html",
+				
+				"content_html": "<p>Idea: <a href=\"https://www.christopherchelpka.com/2021/10/07/grade-multiple-choice.html\">Grade multiple choice exams for accuracy AND confidence like this</a></p>\n",
+				"content_text": "Idea: [Grade multiple choice exams for accuracy AND confidence like this](https://www.christopherchelpka.com/2021/10/07/grade-multiple-choice.html)\n",
+				"date_published": "2021-10-07T11:29:55-07:00",
+				"url": "https://www.christopherchelpka.com/2021/10/07/idea-grade-multiple.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2021/10/07/grade-multiple-choice.html",
+				"title": "Grade multiple choice exams for accuracy AND confidence like this",
+				"content_html": "<p><strong>Instructions:</strong> Circle the correct answer. If you are unsure which is the correct answer, mark that by putting a (+) next to the question.</p>\n\n<p><strong>Grading:</strong>\nIncorrect, sure - 0 points\nIncorrect, unsure = .25 points\nCorrect, unsure = .75 points\nCorrect, sure = 1 point</p>\n\n<p><strong>Explanation:</strong> Because your goal is to get the right answers <em>and</em> be accurately confident about them, there are three things that can reduce your overall grade: wrong answers, underconfidence, and overconfidence. Marking which questions you are unsure of lets your overall grade reflect both these goals. Accurate answers and accurately assessed confidence gain you the most points.</p>\n",
+				"content_text": "**Instructions:** Circle the correct answer. If you are unsure which is the correct answer, mark that by putting a (+) next to the question.\n\n**Grading:**\nIncorrect, sure - 0 points\nIncorrect, unsure = .25 points\nCorrect, unsure = .75 points\nCorrect, sure = 1 point\n\n**Explanation:** Because your goal is to get the right answers _and_ be accurately confident about them, there are three things that can reduce your overall grade: wrong answers, underconfidence, and overconfidence. Marking which questions you are unsure of lets your overall grade reflect both these goals. Accurate answers and accurately assessed confidence gain you the most points.\n",
+				"date_published": "2021-10-07T09:19:52-07:00",
+				"url": "https://www.christopherchelpka.com/2021/10/07/grade-multiple-choice.html"
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2021/10/02/105641.html",
 				
 				"content_html": "<p><img src=\"uploads/2021/80fd1e5b2b.jpg\" width=\"600\" height=\"600\" alt=\"dog with hat on pack\" /></p>\n",
