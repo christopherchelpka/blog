@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2022/07/07/test-your-history.html",
+				
+				"content_html": "<p>Test your history skills with <a href=\"https://wikitrivia.tomjwatson.com/\">Wikitrivia</a>. You only get three lives.</p>\n",
+				"content_text": "Test your history skills with [Wikitrivia](https://wikitrivia.tomjwatson.com/). You only get three lives.\n",
+				"date_published": "2022-07-07T00:41:03-07:00",
+				"url": "https://www.christopherchelpka.com/2022/07/07/test-your-history.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2022/06/28/tosdrorgterms-of-service.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://tosdr.org/\">tosdr.org</a>—Terms of Service; Didn&rsquo;t Read—summarizes what you agreed to when you signed up for __________.</p>\n",
+				"content_text": "🔗 [tosdr.org](https://tosdr.org/)—Terms of Service; Didn't Read—summarizes what you agreed to when you signed up for __________.\n\n",
+				"date_published": "2022-06-28T12:38:53-07:00",
+				"url": "https://www.christopherchelpka.com/2022/06/28/tosdrorgterms-of-service.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2022/06/27/what-were-the.html",
+				
+				"content_html": "<h1 id=\"what-were-the-high-places\">What were the “high places”?</h1>\n<p><a href=\"https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/high-places-altars-and-the-bamah/\">Ellen White</a>:</p>\n<blockquote>\n<p>It may then be easiest to understand high places not as a reference to temporal space, but to a “higher” theological place.</p>\n</blockquote>\n",
+				"content_text": "# What were the “high places”?\n\n[Ellen White](https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/high-places-altars-and-the-bamah/):\n\n> It may then be easiest to understand high places not as a reference to temporal space, but to a “higher” theological place.\n",
+				"date_published": "2022-06-27T06:47:26-07:00",
+				"url": "https://www.christopherchelpka.com/2022/06/27/what-were-the.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2022/06/24/whats-the-best.html",
+				
+				"content_html": "<p>What’s the best app for listening to LibriVox recordings?</p>\n",
+				"content_text": "What’s the best app for listening to LibriVox recordings?\n",
+				"date_published": "2022-06-24T19:52:20-07:00",
+				"url": "https://www.christopherchelpka.com/2022/06/24/whats-the-best.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2022/06/23/i-love-this.html",
+				
+				"content_html": "<p>🎵 I love this <a href=\"https://song.link/https://music.apple.com/us/album/mock-morris/1583523064?i=1583523311\">string arrangement of Mock Morris</a>. My dad taught us to play this in Jr. High. So fun!</p>\n",
+				"content_text": "🎵 I love this [string arrangement of Mock Morris](https://song.link/https://music.apple.com/us/album/mock-morris/1583523064?i=1583523311). My dad taught us to play this in Jr. High. So fun!\n",
+				"date_published": "2022-06-23T12:30:29-07:00",
+				"url": "https://www.christopherchelpka.com/2022/06/23/i-love-this.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2022/06/23/ever-wonder-what.html",
+				
+				"content_html": "<p>Ever wonder what to think of “Of David” or “Of Asaph” in the Psalms? And what about the collection as a whole? James M. Hamilton Jr. <a href=\"https://blog.lexhampress.com/2022/03/24/who-wrote-the-psalms/\">has an idea I like</a> about who wrote the Psalms.</p>\n",
+				"content_text": "Ever wonder what to think of “Of David” or “Of Asaph” in the Psalms? And what about the collection as a whole? James M. Hamilton Jr. [has an idea I like](https://blog.lexhampress.com/2022/03/24/who-wrote-the-psalms/) about who wrote the Psalms.\n",
+				"date_published": "2022-06-23T08:06:43-07:00",
+				"url": "https://www.christopherchelpka.com/2022/06/23/ever-wonder-what.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2022/06/13/test.html",
 				"title": "test",
 				"content_html": "<p>Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</p>\n",
@@ -97,7 +151,7 @@
 				"id": "http://christopherchelpka.micro.blog/2022/04/02/c-b-radio.html",
 				
 				"content_html": "<p>C. B. Radio Store in Eloy, AZ.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "C. B. Radio Store in Eloy, AZ.\n\n<img src=\"uploads/2022/d8b9244c73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "C. B. Radio Store in Eloy, AZ.\n\n<img src=\"https://www.christopherchelpka.com/uploads/2022/d8b9244c73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-02T19:25:01-07:00",
 				"url": "https://www.christopherchelpka.com/2022/04/02/c-b-radio.html",
 				"tags": ["Photos","microblog"]
