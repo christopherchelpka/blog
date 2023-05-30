@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2023/05/30/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781433543579\">The Compelling Community</a> by Mark Dever 📚</p>\n",
+				"content_text": "Currently reading: [The Compelling Community](https://micro.blog/books/9781433543579) by Mark Dever 📚\n",
+				"date_published": "2023-05-30T07:24:29-07:00",
+				"url": "https://www.christopherchelpka.com/2023/05/30/currently-reading-the.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2023/05/26/the-bible-mentions.html",
+				
+				"content_html": "<p>The Bible mentions the balm of Gilead as a famous healing agent. <a href=\"https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/harvesting-the-balm-of-gilead/\">Here’s how to harvest it.</a></p>\n",
+				"content_text": "The Bible mentions the balm of Gilead as a famous healing agent. [Here’s how to harvest it.](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/harvesting-the-balm-of-gilead/)\n",
+				"date_published": "2023-05-26T07:12:48-07:00",
+				"url": "https://www.christopherchelpka.com/2023/05/26/the-bible-mentions.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2023/05/26/joshua-gibbs-via.html",
+				
+				"content_html": "<p><a href=\"https://circeinstitute.org/blog/chatgpt-will-force-us-to-be-more-classical/\">Joshua Gibbs</a> [via <a href=\"https://short.letters.ovh/2023/05/25/chatgpt-is-a.html\">Short Letters</a>]</p>\n<blockquote>\n<p>anyone who thinks that the way around ChatGPT is another bullet point on the school honor code is delusional. Sorry, but some things have to change. Homework needs to change. Writing assignments need to change. We need to take ChatGPT for what it is: a referendum on modern, non-classical teaching.</p>\n</blockquote>\n<p>Occasionally, I hear of a presbytery or session that gives theology exams as￼ a take-home test. That should stop immediately.</p>\n",
+				"content_text": "[Joshua Gibbs](https://circeinstitute.org/blog/chatgpt-will-force-us-to-be-more-classical/) [via [Short Letters](https://short.letters.ovh/2023/05/25/chatgpt-is-a.html)]\n\n> anyone who thinks that the way around ChatGPT is another bullet point on the school honor code is delusional. Sorry, but some things have to change. Homework needs to change. Writing assignments need to change. We need to take ChatGPT for what it is: a referendum on modern, non-classical teaching.\n\nOccasionally, I hear of a presbytery or session that gives theology exams as￼ a take-home test. That should stop immediately.\n",
+				"date_published": "2023-05-26T06:47:05-07:00",
+				"url": "https://www.christopherchelpka.com/2023/05/26/joshua-gibbs-via.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2023/05/21/kieth-wessel-jesus.html",
 				
 				"content_html": "<p><a href=\"https://forwardinchrist.net/view-from-above/\">Kieth Wessel</a>:</p>\n<blockquote>\n<p>Jesus’ ascension provides us with an awesome view from above—a glimpse of glory that assures us he has our lives and all things under control.</p>\n</blockquote>\n<p><a href=\"https://forwardinchrist.net/view-from-above/\">Read more</a> for several encouraging insights on the ascension of Christ.</p>\n",
@@ -28,7 +55,7 @@
 				"id": "http://christopherchelpka.micro.blog/2023/05/18/a-quiet-morning.html",
 				
 				"content_html": "<p>a quiet morning seeking a more quiet spirit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "a quiet morning seeking a more quiet spirit\n\n<img src=\"uploads/2023/07f5c7661f.jpg\" width=\"600\" height=\"600\" alt=\"book and coffee mug\">\n",
+				"content_text": "a quiet morning seeking a more quiet spirit\n\n<img src=\"https://cdn.uploads.micro.blog/4821/2023/07f5c7661f.jpg\" width=\"600\" height=\"600\" alt=\"book and coffee mug\">\n",
 				"date_published": "2023-05-18T14:57:23-07:00",
 				"url": "https://www.christopherchelpka.com/2023/05/18/a-quiet-morning.html",
 				"tags": ["Photos","microblog"]
