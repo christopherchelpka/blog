@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2023/11/24/my-daughter-clara.html",
+				
+				"content_html": "<p>My daughter Clara and I decided to make a Thanksgiving rap video yesterday. So fun!</p>\n",
+				"content_text": "My daughter Clara and I decided to make a Thanksgiving rap video yesterday. So fun!\n",
+				"date_published": "2023-11-24T21:39:25-07:00",
+				"url": "https://www.christopherchelpka.com/2023/11/24/my-daughter-clara.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2023/11/08/currently-reading-scribes.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781433577895\">Scribes and Scripture</a> by John D. Meade and Peter J. Gurry. I&rsquo;m doing this with some others. If you want to read and then join a lunchtime book discussion on December 7 from 12-1pm (MST), I can send you a link. 📚</p>\n",
+				"content_text": "Currently reading: [Scribes and Scripture](https://micro.blog/books/9781433577895) by John D. Meade and Peter J. Gurry. I'm doing this with some others. If you want to read and then join a lunchtime book discussion on December 7 from 12-1pm (MST), I can send you a link. 📚\n",
+				"date_published": "2023-11-08T13:05:38-07:00",
+				"url": "https://www.christopherchelpka.com/2023/11/08/currently-reading-scribes.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2023/11/06/should-we-capitalize.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://zondervanacademic.com/blog/should-we-capitalize-divine-pronouns-mondays-with-mounce-305\">Should We Capitalize Divine Pronouns? - Bill Mounce</a></p>\n",
+				"content_text": "🔗 [Should We Capitalize Divine Pronouns? - Bill Mounce](https://zondervanacademic.com/blog/should-we-capitalize-divine-pronouns-mondays-with-mounce-305)\n",
+				"date_published": "2023-11-06T12:37:57-07:00",
+				"url": "https://www.christopherchelpka.com/2023/11/06/should-we-capitalize.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2023/10/31/the-annual-reformation.html",
 				
 				"content_html": "<p>The annual Reformation Day Party was lots of pun.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -46,7 +73,7 @@
 				"id": "http://christopherchelpka.micro.blog/2023/10/18/eegees-new-pretzel.html",
 				
 				"content_html": "<p>The new Eegee’s pretzel rueben sandwich is a winner.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The new Eegee’s pretzel rueben sandwich is a winner.\n\n<img src=\"uploads/2023/5f34ca6059.jpg\" width=\"600\" height=\"600\" alt=\"Pretzel Rueben sandwich at Eegee’s\">\n",
+				"content_text": "The new Eegee’s pretzel rueben sandwich is a winner.\n\n<img src=\"https://cdn.uploads.micro.blog/4821/2023/5f34ca6059.jpg\" width=\"600\" height=\"600\" alt=\"Pretzel Rueben sandwich at Eegee’s\">\n",
 				"date_published": "2023-10-18T14:43:04-07:00",
 				"url": "https://www.christopherchelpka.com/2023/10/18/eegees-new-pretzel.html",
 				"tags": ["Photos","microblog"]
