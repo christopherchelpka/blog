@@ -7,11 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2023/11/27/is-bach-the.html",
+				
+				"content_html": "<p><a href=\"https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html#comments\">Is Bach the greatest achiever of all time?</a> He’s certainly one of the most inspiring.</p>\n",
+				"content_text": "[Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html#comments) He’s certainly one of the most inspiring.\n",
+				"date_published": "2023-11-27T19:48:18-07:00",
+				"url": "https://www.christopherchelpka.com/2023/11/27/is-bach-the.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2023/11/24/my-daughter-clara.html",
 				
-				"content_html": "<p>My daughter Clara and I decided to make a Thanksgiving rap video yesterday. So fun!</p>\n",
-				"content_text": "My daughter Clara and I decided to make a Thanksgiving rap video yesterday. So fun!\n",
-				"date_published": "2023-11-24T21:39:25-07:00",
+				"content_html": "<p>My daughter Clara and I had a blast yesterday making this Thanksgiving rap video!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "My daughter Clara and I had a blast yesterday making this Thanksgiving rap video!\n\n<video controls=\"controls\" playsinline=\"playsinline\" align=\"left\" src=\"https://www.christopherchelpka.com/uploads/2023/video.mov\" width=\"240\" height=\"480\" poster=\"https://www.christopherchelpka.com/uploads/2023/poster.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-11-24T21:56:52-07:00",
 				"url": "https://www.christopherchelpka.com/2023/11/24/my-daughter-clara.html",
 				"tags": ["microblog"]
 			},
@@ -46,7 +55,7 @@
 				"id": "http://christopherchelpka.micro.blog/2023/10/30/who-is-al.html",
 				
 				"content_html": "<p>Who is Al Seinfeld? Can he still save the world?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Who is Al Seinfeld? Can he still save the world?\n\n<img src=\"uploads/2023/1c176dff65.jpg\" width=\"600\" height=\"136\" alt=\"picture of an article\"><img src=\"uploads/2023/62908096f6.jpg\" width=\"600\" height=\"128\" alt=\"picture of an article\">\n",
+				"content_text": "Who is Al Seinfeld? Can he still save the world?\n\n<img src=\"https://cdn.uploads.micro.blog/4821/2023/1c176dff65.jpg\" width=\"600\" height=\"136\" alt=\"picture of an article\"><img src=\"https://cdn.uploads.micro.blog/4821/2023/62908096f6.jpg\" width=\"600\" height=\"128\" alt=\"picture of an article\">\n",
 				"date_published": "2023-10-30T21:59:25-07:00",
 				"url": "https://www.christopherchelpka.com/2023/10/30/who-is-al.html",
 				"tags": ["Photos","microblog"]
