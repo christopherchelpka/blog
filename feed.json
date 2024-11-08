@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2024/11/08/there-is-a.html",
+				
+				"content_html": "<p>There is a lot to love about the Mushroom Color Atlas and <a href=\"https://www.mushroomcoloratlas.com/\">it&rsquo;s website</a>.</p>\n",
+				"content_text": "There is a lot to love about the Mushroom Color Atlas and [it's website](https://www.mushroomcoloratlas.com/).\n",
+				"date_published": "2024-11-08T07:48:26-07:00",
+				"url": "https://www.christopherchelpka.com/2024/11/08/there-is-a.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2024/11/04/a-dyslexiafriendly-edition.html",
+				
+				"content_html": "<p>A <a href=\"https://amzn.to/3UB6eIR\">Dyslexia-friendly edition of the ESV</a> is coming this January. I just pre-ordered it. This will be a blessing to one of our kids and many others who struggle with Dyslexia. Thank you, @crosswaybooks.</p>\n",
+				"content_text": "A [Dyslexia-friendly edition of the ESV](https://amzn.to/3UB6eIR) is coming this January. I just pre-ordered it. This will be a blessing to one of our kids and many others who struggle with Dyslexia. Thank you, @crosswaybooks.\n",
+				"date_published": "2024-11-04T22:35:33-07:00",
+				"url": "https://www.christopherchelpka.com/2024/11/04/a-dyslexiafriendly-edition.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2024/11/03/tucson-louie.html",
+				
+				"content_html": "<p>Tucson Louie</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tucson Louie\n\n<img src=\"uploads/2024/1035e87992.jpg\" width=\"600\" height=\"600\" alt=\"A large statue of a lumberjack holding an axe stands on a street corner at night.\">\n",
+				"date_published": "2024-11-03T05:52:28-07:00",
+				"url": "https://www.christopherchelpka.com/2024/11/03/tucson-louie.html",
+				"tags": ["Photos","microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2024/11/01/i-didnt-win.html",
+				
+				"content_html": "<p>I didn’t win, but one of my photos was chosen as a finalist entry for the new Pima County Library cards!</p>\n",
+				"content_text": "I didn’t win, but one of my photos was chosen as a finalist entry for the new Pima County Library cards!\n",
+				"date_published": "2024-11-01T19:29:48-07:00",
+				"url": "https://www.christopherchelpka.com/2024/11/01/i-didnt-win.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2024/10/31/220314.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/otcrnrQAwD8&feature\" title=\"\" frameBorder=\"0\"   allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"  allowFullScreen></iframe>\n",
+				"content_html": "<p>Reformation Day Symphony</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Reformation Day Symphony\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/otcrnrQAwD8\" title=\"\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowFullScreen></iframe>\n",
 				"date_published": "2024-10-31T22:03:14-07:00",
 				"url": "https://www.christopherchelpka.com/2024/10/31/220314.html",
 				"tags": ["microblog"]
@@ -37,7 +73,7 @@
 				"id": "http://christopherchelpka.micro.blog/2024/09/25/a-big-gopher.html",
 				
 				"content_html": "<p>A big gopher snake getting warm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A big gopher snake getting warm.\n\n<img src=\"uploads/2024/b3360c1c0e.jpg\" width=\"600\" height=\"600\" alt=\"A gopher snake warms itself on the street.\">\n",
+				"content_text": "A big gopher snake getting warm.\n\n<img src=\"https://cdn.uploads.micro.blog/4821/2024/b3360c1c0e.jpg\" width=\"600\" height=\"600\" alt=\"A gopher snake warms itself on the street.\">\n",
 				"date_published": "2024-09-25T09:19:34-07:00",
 				"url": "https://www.christopherchelpka.com/2024/09/25/a-big-gopher.html",
 				"tags": ["Photos","microblog"]
