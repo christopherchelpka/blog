@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2025/02/14/currently-reading-rooftoppers-by-katherine.html",
+				
+				"content_html": "<p>📚 Currently reading: <a href=\"https://amzn.to/4hZF7R2\">Rooftoppers</a> by Katherine Rundell. I read one of her books last year, and so I put an audio version of this on in the car to listen to with my daughter. We weren’t expecting all the cello references! It feels like there will be more. Enjoying this so far.</p>\n",
+				"content_text": "📚 Currently reading: [Rooftoppers](https://amzn.to/4hZF7R2) by Katherine Rundell. I read one of her books last year, and so I put an audio version of this on in the car to listen to with my daughter. We weren’t expecting all the cello references! It feels like there will be more. Enjoying this so far.\n",
+				"date_published": "2025-02-14T14:24:21-07:00",
+				"url": "https://www.christopherchelpka.com/2025/02/14/currently-reading-rooftoppers-by-katherine.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2025/02/13/173437.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2025/d06c4d3d9a.jpg\" width=\"600\" height=\"600\" alt=\"Rose of clouds with patches of blue sky is above a landscape of sparse palo verde trees and bushes.\">\n",
+				"date_published": "2025-02-13T17:34:37-07:00",
+				"url": "https://www.christopherchelpka.com/2025/02/13/173437.html",
+				"tags": ["Photos","microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2025/02/11/currently-reading-how-to-save.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://amzn.to/4hJIRWG\">How to Save the World: Disciplemaking Made Simple</a> by Alice Matagora 📚</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://christopherchelpka.micro.blog/2025/02/08/is-understanding-this-paragraph-part.html",
 				
 				"content_html": "<p>Is understanding this paragraph part of the test? 🤨</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Is understanding this paragraph part of the test? 🤨\n\n<img src=\"uploads/2025/4a9b0d3c38.jpg\" width=\"570\" height=\"600\" alt=\"\">\n",
+				"content_text": "Is understanding this paragraph part of the test? 🤨\n\n<img src=\"https://cdn.uploads.micro.blog/4821/2025/4a9b0d3c38.jpg\" width=\"570\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-08T20:06:49-07:00",
 				"url": "https://www.christopherchelpka.com/2025/02/08/is-understanding-this-paragraph-part.html",
 				"tags": ["Photos","microblog"]
