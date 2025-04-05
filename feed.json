@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2025/03/20/225104.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Zt3vzOMzQYU?si=qe9cZ7fkKcGmQPjF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2025-03-20T22:51:04-07:00",
+				"url": "https://www.christopherchelpka.com/2025/03/20/225104.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2025/03/14/small-talk-does-some-big.html",
 				
-				"content_html": "<p>Small talk does some big jobs. Here’s one:</p>\n<blockquote>\n<p>Instead of resenting small talk, I now see it as a gateway to a more meaningful connection. After some soothing chitchat, I now feel more confident about taking risks and asking questions that I might have once worried were too far afield.</p>\n</blockquote>\n<p>Read more in The Wall Street Journal: <a href=\"https://apple.news/A-PiVc_flSqWuNpE\">apple.news/A-PiVc_fl&hellip;</a></p>\n",
-				"content_text": "Small talk does some big jobs. Here’s one:\n\n> Instead of resenting small talk, I now see it as a gateway to a more meaningful connection. After some soothing chitchat, I now feel more confident about taking risks and asking questions that I might have once worried were too far afield.\n\nRead more in The Wall Street Journal: [apple.news/A-PiVc_fl...](https://apple.news/A-PiVc_flSqWuNpE)\n",
+				"content_html": "<p>Small talk does some big jobs. Here’s one:</p>\n<blockquote>\n<p>Instead of resenting small talk, I now see it as a gateway to a more meaningful connection. After some soothing chitchat, I now feel more confident about taking risks and asking questions that I might have once worried were too far afield.</p>\n</blockquote>\n<p>Read more in the <a href=\"https://www.wsj.com/arts-culture/books/how-small-talk-opens-up-deeper-connections-e05956b3?page=1\">Wall Street Journal</a>.</p>\n",
+				"content_text": "Small talk does some big jobs. Here’s one:\n\n> Instead of resenting small talk, I now see it as a gateway to a more meaningful connection. After some soothing chitchat, I now feel more confident about taking risks and asking questions that I might have once worried were too far afield.\n\nRead more in the [Wall Street Journal](https://www.wsj.com/arts-culture/books/how-small-talk-opens-up-deeper-connections-e05956b3?page=1).\n",
 				"date_published": "2025-03-14T22:06:17-07:00",
 				"url": "https://www.christopherchelpka.com/2025/03/14/small-talk-does-some-big.html",
 				"tags": ["microblog"]
