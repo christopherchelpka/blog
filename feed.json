@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://christopherchelpka.micro.blog/2026/03/07/all-the-paintings-i-did.html",
+				
+				"content_html": "<p>All the paintings I did in January.</p>\n<p><img src=\"https://www.christopherchelpka.com/uploads/2026/image-20260307-203700-5c76794b.jpg\" alt=\"A collection of watercolor paintings of various subjects\"></p>\n",
+				"content_text": "All the paintings I did in January.\n\n![A collection of watercolor paintings of various subjects](https://www.christopherchelpka.com/uploads/2026/image-20260307-203700-5c76794b.jpg)\n",
+				"date_published": "2026-03-07T20:37:04-07:00",
+				"url": "https://www.christopherchelpka.com/2026/03/07/all-the-paintings-i-did.html",
+				"tags": ["microblog"]
+			},
+			{
+				"id": "http://christopherchelpka.micro.blog/2026/03/03/watching-shooting-stars-and-the.html",
+				
+				"content_html": "<p>Watching shooting stars and the lunar eclipse this morning with my daughter. Lovely.</p>\n<p><img src=\"https://www.christopherchelpka.com/uploads/2026/image-20260303-202752-c2048a15.jpg\" alt=\"Girl on a ladder watching the night sky and a lunar eclipse.\"></p>\n",
+				"content_text": "Watching shooting stars and the lunar eclipse this morning with my daughter. Lovely.\n\n![Girl on a ladder watching the night sky and a lunar eclipse.](https://www.christopherchelpka.com/uploads/2026/image-20260303-202752-c2048a15.jpg)\n",
+				"date_published": "2026-03-03T20:27:55-07:00",
+				"url": "https://www.christopherchelpka.com/2026/03/03/watching-shooting-stars-and-the.html",
+				"tags": ["microblog"]
+			},
+			{
 				"id": "http://christopherchelpka.micro.blog/2026/03/03/sunset-out-in-marana-eastside.html",
 				
 				"content_html": "<p>Sunset out in Marana. Eastside, Westside.</p>\n<p><img src=\"https://www.christopherchelpka.com/uploads/2026/image-20260303-083905-fda41562.jpg\" alt=\"The moon rising over the Catalina Mountains in Marana, AZ. The sunset makes the atmosphere an orangey pink.\"></p>\n<!-- raw HTML omitted -->\n",
